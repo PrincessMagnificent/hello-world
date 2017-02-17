@@ -5,3 +5,4 @@ ren'py
 openArena
 focusWriter & plumeCreator
 tuxGuitar
+easytag
