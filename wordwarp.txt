@@ -1,0 +1,2 @@
+I will write a long line of text and I will discover if the words warp at the edge of the screen, or just continue forever without the slightest indication of - well, it turns out that the words do warp, but they cut a word in half.
+Which is not totally desirable, but okay. Maybe the internet can shed some light on this after all.
